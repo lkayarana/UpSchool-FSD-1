@@ -7,4 +7,4 @@
 
 **Hope you enjoy!**
 
-**Let's code!**
+**Let's code! 🚀**
