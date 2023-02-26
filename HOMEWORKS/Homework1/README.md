@@ -1,3 +1,3 @@
-##Random Password Generator
+## Random Password Generator
 
-**In this homework a program produces password randomly according the client selection. 
+**In this homework, the Random Password Generator program produces password randomly according the client selection.**
