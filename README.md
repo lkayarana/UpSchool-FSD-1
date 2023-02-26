@@ -1,11 +1,11 @@
 # UpSchool-FSD-1
 
-Hello Everyone!
+**Hello Everyone!**
 
-In this repository, you can find researches, homeworks,                    ![cat-coding](https://user-images.githubusercontent.com/102520514/221412312-63393044-a39e-465f-8805-f186ab3cf1b7.gif)
-and projects that I have done throughout Full-Stack Development
-Program held in UpSchool.
+**In this repository, you can find researches, homeworks, and projects that I have done throughout Full-Stack Development Program held in UpSchool.**
 
-Hope you enjoy!
+**Hope you enjoy!**
 
-Let's code!
+**Let's code!**
+
+![giphy](https://user-images.githubusercontent.com/102520514/221416395-9d877d54-de3e-464a-a80b-9e3034743130.gif)
