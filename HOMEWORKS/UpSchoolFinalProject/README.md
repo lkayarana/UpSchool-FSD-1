@@ -11,5 +11,5 @@ By using Clean Architecture, real-time communication among application and datab
 
 
 
-<img align="center" height="600px" alt="guy" width="650px" src="![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/8c9e22ce-85fc-4427-8f0e-a232840c0d9b)" />
+![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/8c9e22ce-85fc-4427-8f0e-a232840c0d9b
 
