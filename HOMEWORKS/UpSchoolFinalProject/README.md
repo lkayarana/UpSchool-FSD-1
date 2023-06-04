@@ -1,8 +1,12 @@
-In this project, a web crawler application has been developed. The application is designed and prepared to meet customer needs. The application performs data scraping from a given website using a Selenium bot and logs the results concurrently with Signal R. The application is divided into three main parts. The first part is a console application that scrapes products using Selenium. The second part is a web API project responsible for transferring products to the database and frontend. The third part is a wasm project that allows tracking products and logs.
+# UpSchool Crawler App
 
-In the initial phase of the application, the console application manages user questions. The first question asks the user how many products they want. The system is designed to handle both numerical inputs and the "all" option. The second question asks the user which type of products they want to scrape, providing three options. The first option is to scrape all products, the second option is to scrape discounted products only, and the third option is to scrape products with regular or non-discounted prices. Based on the user's choices, the Selenium bot performs the web scraping and sends the data to the database. In this application, the scraped products are defined as "products," and orders are created based on the user's preferences. The data sent to the database includes information about orders, products, and order events. Each product object is assigned a GUID ID, and the same applies to each order. The CQRS structure is used for sending products, orders, and order events to the database. The application is designed following the principles of clean architecture.
 
-The second part of the application is developed as a Web API project, and HTTP requests are made through the Web API. The products are sent to the database in this way. The logs generated concurrently with Signal R are transmitted to the frontend using the Data Transfer Object technique.
 
-The third and final part of the application involves creating a Wasm project using Blazor. The movements of the Selenium bot and the scraped products can be tracked in real-time through the frontend.
+https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/6ce75eae-92ef-4dfa-b5de-3d61af0541a4
 
+
+
+In UpSchool Crawler App, products on https://finalproject.dotnet.gg e-commerce site were scraping according to user's selections via Selenium Framework. User can select all of the products exist on the website or input a number to scrap and select crawl types as discounted products, nondiscounted products or all. After inputs were taken, UpSchool Crawler App requests to Web Api and starts to scraping for desired amount and type of products by generating a new order. Meanwhile, order events logs on wasm Blazor via SignalR.
+By using Clean Architecture, real-time communication among application and database is set as initiating SignalR through application layer. Finally, crawled products can be converted to Excel file and send to user's e-mail address as request.
+
+![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/8c9e22ce-85fc-4427-8f0e-a232840c0d9b)
