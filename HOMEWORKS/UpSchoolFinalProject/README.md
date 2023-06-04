@@ -6,8 +6,3 @@ The second part of the application is developed as a Web API project, and HTTP r
 
 The third and final part of the application involves creating a Wasm project using Blazor. The movements of the Selenium bot and the scraped products can be tracked in real-time through the frontend.
 
-
-
-
-https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/22f7be78-3a03-47e5-84be-451e7d97c83a
-
