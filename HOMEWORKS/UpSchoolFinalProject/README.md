@@ -12,3 +12,17 @@ By using Clean Architecture, real-time communication among application and datab
 
 
 ![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/f2c37655-5686-462d-8de5-507fc172e61b)
+
+
+
+Order, products, and order evets also keep ind database tables, shown below relatively.
+
+
+![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/500ffa4b-200e-41e6-bf96-e5765a44dd7b)
+
+
+![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/ccf62d96-eb60-4861-b103-e38112702de6)
+
+
+![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/1ad13473-006d-4e1c-a080-ce752dd8cd5d)
+
