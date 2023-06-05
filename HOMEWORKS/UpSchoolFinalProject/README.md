@@ -15,7 +15,7 @@ By using Clean Architecture, real-time communication among application and datab
 
 
 
-Order, products, and order evets also keep ind database tables, shown below relatively.
+Order, products, and order events also keep ind database tables, shown below relatively.
 
 
 ![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/500ffa4b-200e-41e6-bf96-e5765a44dd7b)
