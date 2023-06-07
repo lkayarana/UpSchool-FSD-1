@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ijwau3KmLsF+38K8WSAOqcDHeFiUzPWNDMj/7JpnGdXP2P8zNW2kL+JTxjmVGHTR1IoooKV4TJhgCc978SVSCA==",
+  "dgSpecHash": "s2scfqUYTDK48dWM4qLAwbfXxqoAMF1Q0MLYTgkqHV8Cec8jT+ySH4pNTThI14wYq0Kypq8r81I46Vbgk48/FA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ranak\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\ranak\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

@@ -5523,11 +5523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj",
       "projectName": "Application.UnitTests",
-      "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj",
+      "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj",
       "packagesPath": "C:\\Users\\ranak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\tests\\Application.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\tests\\Application.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

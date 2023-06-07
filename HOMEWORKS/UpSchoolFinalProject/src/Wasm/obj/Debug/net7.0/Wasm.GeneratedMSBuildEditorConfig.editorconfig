@@ -9,33 +9,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Wasm
 build_property.RootNamespace = Wasm
-build_property.ProjectDir = C:\Users\ranak\source\repos\UpSchoolFinalProject\src\Wasm\
+build_property.ProjectDir = C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\UpSchoolFinalProject\src\Wasm\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ranak\source\repos\UpSchoolFinalProject\src\Wasm
+build_property.MSBuildProjectDirectory = C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\UpSchoolFinalProject\src\Wasm
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ranak/source/repos/UpSchoolFinalProject/src/Wasm/App.razor]
+[C:/Users/ranak/OneDrive/Masaüstü/Homeworks/UpSchool-FullStack-Development-Bootcamp/HOMEWORKS/UpSchoolFinalProject/src/Wasm/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ranak/source/repos/UpSchoolFinalProject/src/Wasm/Pages/CrawlerLiveLogs.razor]
+[C:/Users/ranak/OneDrive/Masaüstü/Homeworks/UpSchool-FullStack-Development-Bootcamp/HOMEWORKS/UpSchoolFinalProject/src/Wasm/Pages/CrawlerLiveLogs.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3Jhd2xlckxpdmVMb2dzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ranak/source/repos/UpSchoolFinalProject/src/Wasm/Shared/SurveyPrompt.razor]
+[C:/Users/ranak/OneDrive/Masaüstü/Homeworks/UpSchool-FullStack-Development-Bootcamp/HOMEWORKS/UpSchoolFinalProject/src/Wasm/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ranak/source/repos/UpSchoolFinalProject/src/Wasm/_Imports.razor]
+[C:/Users/ranak/OneDrive/Masaüstü/Homeworks/UpSchool-FullStack-Development-Bootcamp/HOMEWORKS/UpSchoolFinalProject/src/Wasm/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ranak/source/repos/UpSchoolFinalProject/src/Wasm/Shared/MainLayout.razor]
+[C:/Users/ranak/OneDrive/Masaüstü/Homeworks/UpSchool-FullStack-Development-Bootcamp/HOMEWORKS/UpSchoolFinalProject/src/Wasm/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-26700662ey
 
-[C:/Users/ranak/source/repos/UpSchoolFinalProject/src/Wasm/Shared/NavMenu.razor]
+[C:/Users/ranak/OneDrive/Masaüstü/Homeworks/UpSchool-FullStack-Development-Bootcamp/HOMEWORKS/UpSchoolFinalProject/src/Wasm/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-482661xb4i

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Wasm\\Wasm.csproj": {}
+    "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Wasm\\Wasm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Application\\Application.csproj": {
+    "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\ranak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Application\\obj\\",
+        "outputPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj"
+              "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj": {
+    "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ranak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ranak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -197,8 +197,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Application\\Application.csproj"
+              "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Application\\Application.csproj"
               }
             }
           }
@@ -280,14 +280,14 @@
         }
       }
     },
-    "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Wasm\\Wasm.csproj": {
+    "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Wasm\\Wasm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Wasm\\Wasm.csproj",
+        "projectUniqueName": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Wasm\\Wasm.csproj",
         "projectName": "Wasm",
-        "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Wasm\\Wasm.csproj",
+        "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Wasm\\Wasm.csproj",
         "packagesPath": "C:\\Users\\ranak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Wasm\\obj\\",
+        "outputPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Wasm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -309,14 +309,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Application\\Application.csproj"
+              "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Application\\Application.csproj"
               },
-              "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj"
+              "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

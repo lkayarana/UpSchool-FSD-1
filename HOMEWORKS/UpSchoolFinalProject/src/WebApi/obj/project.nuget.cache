@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ukz4jjPgRBNAMLnrnkdcc8n+ifKXtmnnIRivs/FdldcNw8a+h1cRnjHfYIspDjVfuzVF+LfPUj5z8yXCEK4HIw==",
+  "dgSpecHash": "xA3vS/aUSGuJ5TmqkK7c96QpqNDBst3N4ATKKImV6686djIOsZlt7bPvgTPsYwMFTVwGDeINNSx7mfBVNustMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ranak\\source\\repos\\UpSchoolFinalProject\\src\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ranak\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ranak\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
