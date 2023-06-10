@@ -20,7 +20,7 @@
 }
 
 .todo-list {
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 .todo-item {
@@ -32,11 +32,13 @@
 
 .todo-item.completed {
   text-decoration: line-through;
+  text-decoration: bold;
 }
 
 .created-date {
   font-size: 0.8rem;
-  color: gray;
+  color: rgb(19, 11, 11);
+  font-weight: bold;
 }
 
 .centered {
@@ -44,5 +46,18 @@
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+}
+
+.list-item-content {
+  font-size: 69rem;
+}
+
+.list-item-content .task {
+  font-weight: bold;
+}
+
+.list-item-content .created {
+  font-size: 0.8rem;
+  color: rgb(105, 5, 5);
 }
 

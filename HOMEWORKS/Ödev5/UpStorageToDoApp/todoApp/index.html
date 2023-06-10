@@ -1,13 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/png+xml" href="/todos.png" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ToDos</title>
-  </head>
-  <body style= "background-color: #FFFAD7 ;">
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/png+xml" href="/todos.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ToDos</title>
+  <style>
+    #video-background {
+      position: fixed;
+      right: 0;
+      bottom: 0;
+      min-width: 100%;
+      min-height: 100%;
+      width: auto;
+      height: auto;
+      z-index: -1;
+    }
+
+    .content {
+      position: relative;
+      z-index: 1;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+  <video id="video-background" autoplay loop muted>
+    <source src="/ocean.mp4" type="video/mp4">
+  </video>
+</body>
+
 </html>

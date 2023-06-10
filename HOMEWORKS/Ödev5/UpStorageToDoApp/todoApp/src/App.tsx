@@ -75,9 +75,8 @@ function App() {
       <Grid columns={2} stackable>
         <Grid.Row>
           <Grid.Column width={16}>
-            <Header size="huge" style={{ textAlign: "center", fontSize: '50px', fontWeight: 'bold' }}>Todos</Header>
+            <Header size="huge" style={{ textAlign: "center", fontSize: '55px', fontWeight: 'bold' }}>Todos</Header>
           </Grid.Column>
-
         </Grid.Row>
         <Grid.Row>
           <Grid.Column width={16}>
