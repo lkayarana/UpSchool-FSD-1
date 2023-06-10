@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/zJrgtpKgSSX4SjiEska2c2bxbsmKyTNZP24zrAr2FFTcgzAHrBXc7NVjbWYldfG/VYuXq2+y6obdAeIaQ6EnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\TheBasics\\src\\UpSchool.Domain\\UpSchool.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ranak\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\ranak\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\ranak\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\ranak\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\ranak\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\ranak\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

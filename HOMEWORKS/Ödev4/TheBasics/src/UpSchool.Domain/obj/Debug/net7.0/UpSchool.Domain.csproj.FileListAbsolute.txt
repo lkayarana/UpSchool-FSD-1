@@ -1,0 +1,17 @@
+C:\Users\ranak\source\repos\UpSchool-TheBasics-Kopya\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.csproj.AssemblyReference.cache
+C:\Users\ranak\source\repos\UpSchool-TheBasics-Kopya\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranak\source\repos\UpSchool-TheBasics-Kopya\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.AssemblyInfoInputs.cache
+C:\Users\ranak\source\repos\UpSchool-TheBasics-Kopya\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.AssemblyInfo.cs
+C:\Users\ranak\source\repos\UpSchool-TheBasics-Kopya\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ranak\source\repos\UpSchool-TheBasics\TheBasics\src\UpSchool.Domain\bin\Debug\net7.0\UpSchool.Domain.deps.json
+C:\Users\ranak\source\repos\UpSchool-TheBasics\TheBasics\src\UpSchool.Domain\bin\Debug\net7.0\UpSchool.Domain.dll
+C:\Users\ranak\source\repos\UpSchool-TheBasics\TheBasics\src\UpSchool.Domain\bin\Debug\net7.0\UpSchool.Domain.pdb
+C:\Users\ranak\source\repos\UpSchool-TheBasics\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.csproj.AssemblyReference.cache
+C:\Users\ranak\source\repos\UpSchool-TheBasics\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranak\source\repos\UpSchool-TheBasics\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.AssemblyInfoInputs.cache
+C:\Users\ranak\source\repos\UpSchool-TheBasics\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.AssemblyInfo.cs
+C:\Users\ranak\source\repos\UpSchool-TheBasics\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ranak\source\repos\UpSchool-TheBasics\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.dll
+C:\Users\ranak\source\repos\UpSchool-TheBasics\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\refint\UpSchool.Domain.dll
+C:\Users\ranak\source\repos\UpSchool-TheBasics\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.pdb
+C:\Users\ranak\source\repos\UpSchool-TheBasics\TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\ref\UpSchool.Domain.dll

@@ -1,0 +1,52 @@
+﻿@*@page "/"
+@using Domain.Services
+@using Microsoft.AspNetCore.SignalR.Client
+@using Domain.Dtos
+@inject IJSRuntime JsRuntime
+@inject Blazored.LocalStorage.ILocalStorageService LocalStorage
+@inject HttpClient HttpClient
+@inject NavigationManager NavigationManager
+@inject IUrlHelperService UrlHelperService
+
+<div class="container">
+    <div class="row ">
+        <div class="col-md-12">
+            <div class="p-5 mb-4 bg-light rounded-3">
+                <div class="container-fluid">
+                    <h1 class="display-5 fw-bold text-center">My Accounts </h1>
+                    <hr />
+                    <hr />
+                    <div class="row">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@code
+{
+    private HubConnection? hubConnection;
+
+   // List<ProductDto> products = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        var hubConnection = new HubConnectionBuilder()
+            .WithUrl($"{UrlHelperService.SignalRUrl}/SeleniumLogHub")
+            .WithAutomaticReconnect()
+            .Build();
+
+        await hubConnection.StartAsync();
+
+        await base.OnInitializedAsync();
+    }
+
+}
+
+<style>
+    body {
+        background: #393E46
+    }
+</style>*@
