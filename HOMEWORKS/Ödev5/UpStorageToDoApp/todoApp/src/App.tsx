@@ -116,6 +116,7 @@ function App() {
                   style={{
                     textDecoration: todo.isCompleted ? 'line-through' : 'none',
                     cursor: 'pointer',
+                    textWeight: 'bold',
                   }}
                   onDoubleClick={() => handleTaskDoubleClick(todo.id)}
                 >
@@ -129,7 +130,7 @@ function App() {
                   </List.Content>
                   <List.Content>
                     {todo.task}
-                    <div style={{ fontSize: '0.8rem', color: 'gray' }}>
+                    <div style={{ fontSize: '0.8rem', color: 'black', fontWeight: 'bold'}}>
                       Created: {todo.createdDate.toLocaleString()}
                     </div>
                   </List.Content>

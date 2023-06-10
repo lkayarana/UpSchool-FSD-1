@@ -6,4 +6,6 @@ html, body, #root {
 
 body {
   font-family: Arial, sans-serif;
+  font-weight: bolder;
+  font-size: xx-large;
 }
