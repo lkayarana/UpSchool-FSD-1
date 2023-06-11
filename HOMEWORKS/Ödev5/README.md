@@ -8,13 +8,20 @@ https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/1025
 # About the app
 This todo app is a simple and intuitive task management tool built using React, TypeScript, and the Semantic UI Framework. It provides a user-friendly interface for creating, organizing, and tracking your daily tasks or to-do items.
 
+
+
+
+<img width="1072" alt="TodoApp" src="https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/3a23bdd4-3d3b-4da7-94c9-5e2bbdc18307">
+
+
+
 # Key features of the app include:
 
 * Task Creation : Easily add new tasks by entering a title and optional description.
 
 * Task Filtering : Filter and view tasks based on their creation date.
 
-* Task Status Updates: Mark tasks as complete by double-clicking, allowing you to track your progress.
+* Task Status Updates : Mark tasks as complete by double-clicking, allowing you to track your progress.
 
 * Task Deletion : Remove completed or no longer relevant tasks from your list.
 
@@ -22,9 +29,10 @@ This todo app is a simple and intuitive task management tool built using React, 
 
 * Responsive Design : The app is optimized for various screen sizes, making it accessible and functional on both desktop and mobile devices.
 
+
 With this todo app, you can stay organized and prioritize your tasks effectively. Whether you need to manage personal errands, work-related projects, or academic assignments, this app provides a convenient and flexible solution for tracking and completing your tasks efficiently.
 
 # Technologies Used
-React
-TypeScript
-Semantic UI Framework
+* React
+* TypeScript
+* Semantic UI Framework
