@@ -27,7 +27,7 @@ This todo app is a simple and intuitive task management tool built using React, 
 
 * User-Friendly Interface : The app's interface is designed to be intuitive and visually appealing, providing a seamless user experience.
 
-* Responsive Design : The app is optimized for various screen sizes, making it accessible and functional on both desktop and mobile devices.
+* Pagination of Tasks : Display created tasks in paginated system for better usage.
 
 
 With this todo app, you can stay organized and prioritize your tasks effectively. Whether you need to manage personal errands, work-related projects, or academic assignments, this app provides a convenient and flexible solution for tracking and completing your tasks efficiently.
@@ -36,3 +36,24 @@ With this todo app, you can stay organized and prioritize your tasks effectively
 * React
 * TypeScript
 * Semantic UI Framework
+
+# Installation
+
+* Install and set up your app locally via entering the code below in terminal;
+
+```bash
+npm install
+```
+
+* Use the Todo App locally by entering the code below in terminal;
+
+After installing and for first build, use code below;
+
+```bash
+npm run build
+```
+To run the app, use the code below;
+
+```bash
+npm run dev
+```
