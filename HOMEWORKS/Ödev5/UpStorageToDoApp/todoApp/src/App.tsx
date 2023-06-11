@@ -13,7 +13,7 @@ function App() {
 
   const [todos, setTodos] = useState<Todo[]>([]);
   const [inputText, setInputText] = useState('');
-  const [sortDirection, setSortDirection] = useState<'ascending' | 'descending'>('ascending');
+  const [sortDirection, setSortDirection] = useState<'oldest' | 'newest'>('oldest');
   const [currentPage, setCurrentPage] = useState(1);
   const [tasksPerPage] = useState(5);
 
@@ -50,7 +50,7 @@ function App() {
   };
 
   const handleSortChange = (value: string): void => {
-    const direction = value === 'ascending' ? 'ascending' : 'descending';
+    const direction = value === 'oldest' ? 'oldest' : 'newest';
     setSortDirection(direction);
   };
 
@@ -63,7 +63,7 @@ function App() {
   };
 
   todos.sort((a, b) => {
-    if (sortDirection === 'ascending') {
+    if (sortDirection === 'oldest') {
       return a.createdDate.getTime() - b.createdDate.getTime();
     } else {
       return b.createdDate.getTime() - a.createdDate.getTime();
@@ -97,8 +97,8 @@ function App() {
                 <Dropdown
                   inline
                   options={[
-                    { key: 'ascending', text: 'Ascending', value: 'ascending' },
-                    { key: 'descending', text: 'Descending', value: 'descending' },
+                    { key: 'oldest', text: 'Oldest', value: 'oldest' },
+                    { key: 'newest', text: 'Newest', value: 'newest' },
                   ]}
                   value={sortDirection}
                   onChange={(_, { value }) => handleSortChange(value as string)}
