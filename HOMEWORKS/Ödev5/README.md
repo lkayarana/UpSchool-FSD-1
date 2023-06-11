@@ -39,20 +39,20 @@ With this todo app, you can stay organized and prioritize your tasks effectively
 
 # Installation
 
-* Install and set up your app locally via entering the code below in terminal;
+Install and set up your app locally via entering the code below in terminal;
 
 ```bash
 npm install
 ```
 
-* Use the Todo App locally by entering the code below in terminal;
+Use the Todo App locally by entering the code below in terminal;
 
-After installing and for first build, use code below;
+* After installing and for first build, use code below;
 
 ```bash
 npm run build
 ```
-To run the app, use the code below;
+* To run the app, use the code below;
 
 ```bash
 npm run dev
