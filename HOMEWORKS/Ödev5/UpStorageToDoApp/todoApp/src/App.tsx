@@ -120,17 +120,16 @@ function App() {
                   }}
                   onDoubleClick={() => handleTaskDoubleClick(todo.id)}
                 >
-                  <List.Content floated="right">
-                    <Button
-                      size="tiny"
-                      color="red"
-                      icon="trash"
-                      onClick={() => removeTodo(todo.id)}
-                    />
-                  </List.Content>
+                  <Button
+                    floated="right"
+                    size="tiny"
+                    color="red"
+                    icon="trash"
+                    onClick={() => removeTodo(todo.id)}
+                  />
                   <List.Content>
                     {todo.task}
-                    <div style={{ fontSize: '0.8rem', color: 'black', fontWeight: 'bold'}}>
+                    <div style={{ fontSize: '0.8rem', color: 'black', fontWeight: 'bold' }}>
                       Created: {todo.createdDate.toLocaleString()}
                     </div>
                   </List.Content>
