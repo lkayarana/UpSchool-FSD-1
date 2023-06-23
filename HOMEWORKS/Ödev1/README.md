@@ -10,12 +10,10 @@ A simple console application that generates random passwords based on user prefe
 - [Usage](#usage)
 
 ## **Introduction**
----
 
 Welcome to the Random Password Generator! This application allows you to generate random passwords with various options for character types and length. Whether you need a strong password for your online accounts or want to generate passwords for your users, this tool has got you covered.
 
 ## **Features**
----
 
 - Generate random passwords with the following character types:
   - Numbers (0-9)
@@ -27,7 +25,6 @@ Welcome to the Random Password Generator! This application allows you to generat
 - Keep track of previously generated passwords.
 
 ## **Getting Started**
----
 
 To use the Random Password Generator, follow these steps:
 
