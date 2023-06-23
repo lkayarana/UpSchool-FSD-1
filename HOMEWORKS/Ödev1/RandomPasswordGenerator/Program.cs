@@ -3,12 +3,14 @@
 var passwordGenerator = new PasswordGenerator();
 
 passwordGenerator.Introduction();
-
 passwordGenerator.ReadInputs();
 
-passwordGenerator.Create();
-
-passwordGenerator.WriteLatestGeneratedPassword();
+if (passwordGenerator.IncludeNumbers || passwordGenerator.IncludeLowercaseCharacters ||
+    passwordGenerator.IncludeUppercaseCharacters || passwordGenerator.IncludeSpecialCharacters)
+{
+    passwordGenerator.Create();
+    passwordGenerator.WriteLatestGeneratedPassword();
+}
 
 Console.ReadLine();
 

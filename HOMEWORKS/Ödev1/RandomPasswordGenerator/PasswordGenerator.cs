@@ -8,13 +8,12 @@ namespace RandomPasswordGenerator
         public const string LowercaseCharacters = "abcdefghijklmnopqrstuvwxyz";
         public const string UppercaseCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         public const string SpecialCharacters = "*$-+?_&=!%{}/\"";
+
         private int _length = 0;
         private bool _isUserInputValid = true;
 
-
-        private string _lastGneratedPassword;
+        private string _lastGeneratedPassword;
         private List<string> _generatedPasswords;
-
 
         private readonly Random _random;
         private readonly StringBuilder _passwordBuilder;
@@ -35,16 +34,21 @@ namespace RandomPasswordGenerator
 
             _charSetBuilder = new StringBuilder();
 
-            _lastGneratedPassword = string.Empty;
+            _lastGeneratedPassword = string.Empty;
 
             _generatedPasswords = new List<string>();
         }
 
-        public void Introduction()
+        public void StarLine()
         {
             Console.WriteLine("*****************************************");
+        }
+
+        public void Introduction()
+        {
+            StarLine();
             Console.WriteLine("Welcome to the Random Password Generator!");
-            Console.WriteLine("*****************************************");
+            StarLine();
         }
 
         public void ReadInputs()
@@ -65,73 +69,76 @@ namespace RandomPasswordGenerator
 
             var passwordLength = Console.ReadLine();
 
-            if (!int.TryParse(passwordLength, out var _length)
-                ||
-                !IncludeNumbers && !IncludeLowercaseCharacters && !IncludeUppercaseCharacters &&
-                !IncludeSpecialCharacters)
+            if (!int.TryParse(passwordLength, out this._length)
+                || (!IncludeNumbers && !IncludeLowercaseCharacters && !IncludeUppercaseCharacters && !IncludeSpecialCharacters))
             {
                 _isUserInputValid = false;
+                DisplayErrorMessage();
                 return;
             }
 
             _isUserInputValid = true;
-
         }
 
 
-        private void DisplayErroeMessage(string message = null)
+        private void DisplayErrorMessage(string? message = null)
         {
             if (string.IsNullOrEmpty(message))
-                Console.WriteLine("Geçersiz işlem!");
-            return;
+                Console.WriteLine("Invalid input!");
+            else
+                Console.WriteLine(message);
         }
 
 
         public void Create()
         {
-            if (IncludeNumbers) _charSetBuilder.Append(Numbers);
+            if (IncludeNumbers)
+                _charSetBuilder.Append(Numbers);
 
-            if (IncludeLowercaseCharacters) _charSetBuilder.Append(LowercaseCharacters);
+            if (IncludeLowercaseCharacters)
+                _charSetBuilder.Append(LowercaseCharacters);
 
-            if (IncludeUppercaseCharacters) _charSetBuilder.Append(UppercaseCharacters);
+            if (IncludeUppercaseCharacters)
+                _charSetBuilder.Append(UppercaseCharacters);
 
-            if (IncludeSpecialCharacters) _charSetBuilder.Append(SpecialCharacters);
+            if (IncludeSpecialCharacters)
+                _charSetBuilder.Append(SpecialCharacters);
 
             var charSet = _charSetBuilder.ToString();
 
             for (int i = 0; i < _length; i++)
             {
                 var randomIndex = _random.Next(charSet.Length);
-
                 _passwordBuilder.Append(charSet[randomIndex]);
             }
 
-            _lastGneratedPassword = _passwordBuilder.ToString();
-
-            _generatedPasswords.Add(_lastGneratedPassword);
+            _lastGeneratedPassword = _passwordBuilder.ToString();
+            _generatedPasswords.Add(_lastGeneratedPassword);
 
             _charSetBuilder.Clear();
             _passwordBuilder.Clear();
         }
 
 
-        public string GetLatestGeneratedPassword() => _lastGneratedPassword;
+        public string GetLatestGeneratedPassword() => _lastGeneratedPassword;
 
         public List<string> GetGeneratedPasswords() => _generatedPasswords;
 
-        public void WriteLatestGeneratedPassword() => WriteFormattedPassword(_lastGneratedPassword);
+        public void WriteLatestGeneratedPassword() => WriteFormattedPassword(_lastGeneratedPassword);
 
         public void WriteGeneratedPasswords() => _generatedPasswords.ForEach(WriteFormattedPassword);
 
-        public void WriteFormattedPassword(string password)
+        public void HyphenLine()
         {
-            Console.WriteLine("------------------------------------------------");
-            Console.WriteLine(password);
             Console.WriteLine("------------------------------------------------");
         }
 
-
-
+        public void WriteFormattedPassword(string? password)
+        {
+            HyphenLine();
+            Console.WriteLine(password);
+            HyphenLine();
+        }
 
 
     }
