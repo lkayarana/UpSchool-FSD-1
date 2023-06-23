@@ -34,7 +34,7 @@ To use the Random Password Generator, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/random-password-generator.git
+   git clone https://github.com/lkayarana/random-password-generator.git
 2. Open the project in your preferred C# development environment (e.g., Visual Studio).
 
 3. Build the project to restore dependencies and compile the code.
