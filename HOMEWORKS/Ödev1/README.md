@@ -2,6 +2,10 @@
 
 A simple console application that generates random passwords based on user preferences.
 
+
+https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/2b5014e2-9920-4398-84f6-287eac8b4bc0
+
+
 ## **Table of Contents**
 
 - [Introduction](#introduction)
