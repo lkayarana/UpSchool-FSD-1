@@ -26,7 +26,6 @@ Welcome to the Random Password Generator! This application allows you to generat
   - Special characters (*$-+?_&=!%{}/\")
 - Customize the length of the generated passwords.
 - Display the latest generated password.
-- Keep track of previously generated passwords.
 
 ## **Getting Started**
 
@@ -62,4 +61,8 @@ To use the Random Password Generator, follow these steps:
 
 4. The generated password will be displayed on the console.
 
-5. You can run the application again to generate more passwords with different preferences.
+5. If all preferences will be (N), then the application will display error message as;
+
+![Alt text](image.png)
+
+6. You can run the application again to generate more passwords with different preferences.
