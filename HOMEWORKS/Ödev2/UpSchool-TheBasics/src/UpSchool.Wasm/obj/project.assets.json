@@ -1988,11 +1988,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\src\\UpSchool.Wasm\\UpSchool.Wasm.csproj",
+      "projectUniqueName": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev2\\UpSchool-TheBasics\\src\\UpSchool.Wasm\\UpSchool.Wasm.csproj",
       "projectName": "UpSchool.Wasm",
-      "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\src\\UpSchool.Wasm\\UpSchool.Wasm.csproj",
+      "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev2\\UpSchool-TheBasics\\src\\UpSchool.Wasm\\UpSchool.Wasm.csproj",
       "packagesPath": "C:\\Users\\ranak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\src\\UpSchool.Wasm\\obj\\",
+      "outputPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev2\\UpSchool-TheBasics\\src\\UpSchool.Wasm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2014,8 +2014,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\src\\UpSchool.Domain\\UpSchool.Domain.csproj": {
-              "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\src\\UpSchool.Domain\\UpSchool.Domain.csproj"
+            "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev2\\UpSchool-TheBasics\\src\\UpSchool.Domain\\UpSchool.Domain.csproj": {
+              "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev2\\UpSchool-TheBasics\\src\\UpSchool.Domain\\UpSchool.Domain.csproj"
             }
           }
         }
@@ -2066,7 +2066,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[7.0.3, 7.0.3]"
+            "version": "[7.0.7, 7.0.7]"
           }
         ],
         "frameworkReferences": {
@@ -2074,7 +2074,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

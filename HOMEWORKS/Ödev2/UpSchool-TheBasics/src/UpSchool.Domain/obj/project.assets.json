@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\src\\UpSchool.Domain\\UpSchool.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev2\\UpSchool-TheBasics\\src\\UpSchool.Domain\\UpSchool.Domain.csproj",
       "projectName": "UpSchool.Domain",
-      "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\src\\UpSchool.Domain\\UpSchool.Domain.csproj",
+      "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev2\\UpSchool-TheBasics\\src\\UpSchool.Domain\\UpSchool.Domain.csproj",
       "packagesPath": "C:\\Users\\ranak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\src\\UpSchool.Domain\\obj\\",
+      "outputPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev2\\UpSchool-TheBasics\\src\\UpSchool.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

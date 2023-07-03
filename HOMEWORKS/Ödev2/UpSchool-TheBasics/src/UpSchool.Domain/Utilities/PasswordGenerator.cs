@@ -1,7 +1,5 @@
 ﻿using System.Text;
-using UpSchool.Domain.Common;
 using UpSchool.Domain.Dtos;
-using static UpSchool.Domain.Utilities.CareTaker;
 
 namespace UpSchool.Domain.Utilities
 {
@@ -15,17 +13,16 @@ namespace UpSchool.Domain.Utilities
         private readonly Random _random;
         private readonly StringBuilder _passwordBuilder;
         private readonly StringBuilder _charSetBuilder;
-
-        public object Password { get; private set; }
+        private readonly Stack<PasswordMemento> _passwordHistory;
+        private readonly Stack<PasswordMemento> _redoStack;
 
         public PasswordGenerator()
         {
             _random = new Random();
-
             _passwordBuilder = new StringBuilder();
-
             _charSetBuilder = new StringBuilder();
-
+            _passwordHistory = new Stack<PasswordMemento>();
+            _redoStack = new Stack<PasswordMemento>();
         }
 
         public string Generate(GeneratePasswordDto generatePasswordDto)
@@ -34,19 +31,12 @@ namespace UpSchool.Domain.Utilities
             _passwordBuilder.Clear();
 
             if (generatePasswordDto.IncludeNumbers) _charSetBuilder.Append(Numbers);
-
             if (generatePasswordDto.IncludeLowercaseCharacters) _charSetBuilder.Append(LowercaseCharacters);
-
             if (generatePasswordDto.IncludeUppercaseCharacters) _charSetBuilder.Append(UppercaseCharacters);
-
             if (generatePasswordDto.IncludeSpecialCharacters) _charSetBuilder.Append(SpecialCharacters);
 
-            //if (!generatePasswordDto.IncludeNumbers && !generatePasswordDto.IncludeLowercaseCharacters &&
-            //!generatePasswordDto.IncludeUppercaseCharacters && !generatePasswordDto.IncludeSpecialCharacters
-            //    )
-            if(generatePasswordDto is
-               {IncludeNumbers:false, IncludeLowercaseCharacters:false, 
-                   IncludeUppercaseCharacters:false, IncludeSpecialCharacters:false})
+            if (!generatePasswordDto.IncludeNumbers && !generatePasswordDto.IncludeLowercaseCharacters &&
+                !generatePasswordDto.IncludeUppercaseCharacters && !generatePasswordDto.IncludeSpecialCharacters)
             {
                 return string.Empty;
             }
@@ -56,34 +46,56 @@ namespace UpSchool.Domain.Utilities
             for (int i = 0; i < generatePasswordDto.Length; i++)
             {
                 var randomIndex = _random.Next(charSet.Length);
-
                 _passwordBuilder.Append(charSet[randomIndex]);
             }
 
-            return _passwordBuilder.ToString();
+            var password = _passwordBuilder.ToString();
+            _passwordHistory.Push(new PasswordMemento(password, generatePasswordDto));
+            _redoStack.Clear();
+
+            return password;
         }
 
-        public Mementodp Save() => new Mementodp
+        public bool CanUndoPassword()
         {
-            _passwordBuilderMemento = _passwordBuilder
-        };
-
-        public StringBuilder Get_passwordBuilder()
-        {
-            return _passwordBuilder;
+            return _passwordHistory.Count > 1;
         }
 
-        public string undo(Mementodp Memento)
+        public bool CanRedoPassword()
         {
-            return undo(Memento, _passwordBuilder);
+            return _redoStack.Count > 0;
         }
 
-        public string undo(Mementodp Memento, StringBuilder _passwordBuilder)
+        public string UndoPassword()
         {
-            _passwordBuilder = Memento._passwordBuilderMemento;
+            if (CanUndoPassword())
+            {
+                var previousMemento = _passwordHistory.Pop();
+                _redoStack.Push(previousMemento);
 
-            return _passwordBuilder.ToString();
+                var previousPassword = _passwordHistory.Peek().Password;
+                _passwordBuilder.Clear();
+                _passwordBuilder.Append(previousPassword);
+                return previousPassword;
+            }
 
+            return string.Empty;
+        }
+
+        public string RedoPassword()
+        {
+            if (CanRedoPassword())
+            {
+                var redoMemento = _redoStack.Pop();
+                _passwordHistory.Push(redoMemento);
+
+                var redoPassword = redoMemento.Password;
+                _passwordBuilder.Clear();
+                _passwordBuilder.Append(redoPassword);
+                return redoPassword;
+            }
+
+            return string.Empty;
         }
     }
 }

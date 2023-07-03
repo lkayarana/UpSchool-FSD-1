@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fyVoH4cuLe5TmzEsX2c7jPtJXQyV14Y13zLZRl9KUMav59g5G4nC1u/sF3yAJDXco0/8NPDxFEfChaSEvMGBZg==",
+  "dgSpecHash": "sX3jjjopn7qNVpVijBtYYmo0IHWb6DJbbGllTmmgkUL2W31KVL11sWxm0q3aG+zxnVAiQZxkDMiJjHuELVug/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\src\\UpSchool.Wasm\\UpSchool.Wasm.csproj",
+  "projectFilePath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev2\\UpSchool-TheBasics\\src\\UpSchool.Wasm\\UpSchool.Wasm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ranak\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
     "C:\\Users\\ranak\\.nuget\\packages\\blazored.toast\\4.1.0\\blazored.toast.4.1.0.nupkg.sha512",
@@ -34,7 +34,7 @@
     "C:\\Users\\ranak\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\ranak\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\ranak\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\ranak\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.3\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.3.nupkg.sha512"
+    "C:\\Users\\ranak\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.7.nupkg.sha512"
   ],
   "logs": []
 }

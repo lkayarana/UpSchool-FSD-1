@@ -22,3 +22,15 @@ C:\Users\ranak\OneDrive\Masaüstü\Rana\UPSchool\UpSchool-FullStack-Development-
 C:\Users\ranak\OneDrive\Masaüstü\Rana\UPSchool\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\refint\UpSchool.Domain.dll
 C:\Users\ranak\OneDrive\Masaüstü\Rana\UPSchool\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.pdb
 C:\Users\ranak\OneDrive\Masaüstü\Rana\UPSchool\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\ref\UpSchool.Domain.dll
+C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\bin\Debug\net7.0\UpSchool.Domain.deps.json
+C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\bin\Debug\net7.0\UpSchool.Domain.dll
+C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\bin\Debug\net7.0\UpSchool.Domain.pdb
+C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.csproj.AssemblyReference.cache
+C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.AssemblyInfoInputs.cache
+C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.AssemblyInfo.cs
+C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.dll
+C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\refint\UpSchool.Domain.dll
+C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\UpSchool.Domain.pdb
+C:\Users\ranak\OneDrive\Masaüstü\Homeworks\UpSchool-FullStack-Development-Bootcamp\HOMEWORKS\Ödev2\UpSchool-TheBasics\src\UpSchool.Domain\obj\Debug\net7.0\ref\UpSchool.Domain.dll
