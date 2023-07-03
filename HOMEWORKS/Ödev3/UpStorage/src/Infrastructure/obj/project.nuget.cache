@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W6cGP0oweALf2DDs0FUvllR8PrUIqiyEcgLyGc46I8YU5oThLI03e6XZGEWu9eZYoInUHAmsHF60dWk70eyLNw==",
+  "dgSpecHash": "QMXRFMhqmf6p5NzVypKslB5W4ArpAApH1FmWOWvVIwtVaj0NSnY+gGxBBV1/q8ACtFOLT8KxJNBYoIRU1vFmCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\UpStorage\\src\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev3\\UpStorage\\src\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ranak\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
     "C:\\Users\\ranak\\.nuget\\packages\\exceldatareader.mapping\\2.2.2\\exceldatareader.mapping.2.2.2.nupkg.sha512",

@@ -2924,11 +2924,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\UpStorage\\src\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev3\\UpStorage\\src\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\UpStorage\\src\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev3\\UpStorage\\src\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\ranak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\UpStorage\\src\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev3\\UpStorage\\src\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2944,17 +2944,18 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\UpStorage\\src\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\UpStorage\\src\\Application\\Application.csproj"
+            "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev3\\UpStorage\\src\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev3\\UpStorage\\src\\Application\\Application.csproj"
             },
-            "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\UpStorage\\src\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\UpStorage\\src\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev3\\UpStorage\\src\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev3\\UpStorage\\src\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -3003,7 +3004,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

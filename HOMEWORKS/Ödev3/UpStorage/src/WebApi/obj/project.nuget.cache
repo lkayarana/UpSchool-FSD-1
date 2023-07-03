@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qm1tFSLPhsAmjUceynbz1HrKPmwme3smTb2XLhgfYpxJluXRqPLX1vpbcN1LBDinoFpurCHH99zdTocRJ/qE8A==",
+  "dgSpecHash": "f2Cv9n24OERrP+12jrDm7kzroNC3Xul1sCLeEeXuqRbRLFKFTVZJaf9Etm1nKpE5Pw33S3yDZfYdaeG5pxzwjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ranak\\source\\repos\\UpSchool-TheBasics\\UpStorage\\src\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\Ödev3\\UpStorage\\src\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ranak\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
     "C:\\Users\\ranak\\.nuget\\packages\\exceldatareader.mapping\\2.2.2\\exceldatareader.mapping.2.2.2.nupkg.sha512",
