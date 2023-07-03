@@ -1,6 +1,6 @@
 # Password Generator with Memento Design Pattern
 
-This project implements a password generator utility that utilizes the Memento design pattern to enable undo(↩️) and redo(↪️) functionality on On src\UpSchool.Domain\Utilities\Memento\PasswordMemento.cs., src\UpSchool.Domain\Utilities\PasswordGenerator.cs, and src\UpSchool.Wasm\Pages\PasswordGeneratorPage.razor.
+This project implements a password generator utility that utilizes the Memento design pattern to enable undo(↩️) and redo(↪️) functionality on src\UpSchool.Domain\Utilities\Memento\PasswordMemento.cs., src\UpSchool.Domain\Utilities\PasswordGenerator.cs, and src\UpSchool.Wasm\Pages\PasswordGeneratorPage.razor.
 
 https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/d29e8aab-12e4-42b0-83f8-83308029a89d
 
