@@ -10,37 +10,37 @@ namespace WebApi.Controllers
 {
     public class AddressesController : ApiControllerBase
     {
-        [HttpPost("AddAsync")]
+        [HttpPost("Add")]
         public async Task<IActionResult> AddAsync(AddressAddCommand command)
         {
             return Ok(await Mediator.Send(command));
         }
 
-        [HttpPost("GetById")]
+        [HttpGet("GetById")]
         public async Task<IActionResult> GetByIdAsync(AddressGetByIdQuery query)
         {
             return Ok(await Mediator.Send(query));
         }
 
-        [HttpPost("GetAll")]
+        [HttpGet("GetAll")]
         public async Task<IActionResult> GetAllAsync(AddressGetAllQuery query)
         {
             return Ok(await Mediator.Send(query));
         }
 
-        [HttpPost("UpdateAsync")]
+        [HttpPut("Update")]
         public async Task<IActionResult> UpdateAsync(AddressUpdateCommand command)
         {
             return Ok(await Mediator.Send(command));
         }
 
-        [HttpPost("DeleteAsync")]
+        [HttpPut("Delete")]
         public async Task<IActionResult> DeleteAsync(AddressDeleteCommand command)
         {
             return Ok(await Mediator.Send(command));
         }
 
-        [HttpDelete]
+        [HttpDelete("HardDelete")]
         public async Task<IActionResult> DeleteAsync(AddressHardDeleteCommand command)
         {
             return Ok(await Mediator.Send(command));
