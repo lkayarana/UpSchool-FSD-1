@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/0TPpW5n8j9BM4Fv3GNPETBXpdn3Ghth2VJ/LvZGgHTFwMzsNTNeJZ6F3a0qqtyoz2N7zwyMwRofpqt5cDz5xg==",
+  "dgSpecHash": "nJIq2DWuArXz7cdwTXpQW4FYad6aONvcnRIVZNw3hGsSTI2Tkl1uuz8YBOhILDGfAEWY0MZWhpWESV1Wi2zOpw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ranak\\OneDrive\\Masaüstü\\Homeworks\\UpSchool-FullStack-Development-Bootcamp\\HOMEWORKS\\UpSchoolFinalProject\\src\\Wasm\\Wasm.csproj",
   "expectedPackageFiles": [
@@ -118,7 +118,7 @@
     "C:\\Users\\ranak\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\ranak\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\ranak\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
-    "C:\\Users\\ranak\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.5.nupkg.sha512"
+    "C:\\Users\\ranak\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.7.nupkg.sha512"
   ],
   "logs": []
 }

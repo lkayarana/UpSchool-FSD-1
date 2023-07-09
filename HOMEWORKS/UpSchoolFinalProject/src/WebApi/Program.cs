@@ -1,4 +1,5 @@
 using Application;
+using Domain.Settings;
 using Infrastructure;
 using Infrastructure.Persistence.Contexts;
 using Microsoft.EntityFrameworkCore;
@@ -14,6 +15,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSignalR();
 
+builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSettings"));
+
+builder.Services.Configure<GoogleSettings>(builder.Configuration.GetSection("GoogleSettings"));
 
 var mariaDbConnectionString = builder.Configuration.GetConnectionString("MariaDB")!;
 
