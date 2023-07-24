@@ -1,0 +1,13 @@
+.fake-log-screen {
+    display: flex;
+}
+
+.crawler-log {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.products-log {
+    flex: 1;
+    margin-left: 20px;
+}
