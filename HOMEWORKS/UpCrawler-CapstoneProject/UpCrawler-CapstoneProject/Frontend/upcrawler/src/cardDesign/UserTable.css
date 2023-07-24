@@ -1,0 +1,56 @@
+/* Tablo stilini güncellemek için gerekli CSS kodları */
+.user-table {
+    width: 100%;
+    font-size: 0.875rem;
+}
+
+.user-table thead th {
+    padding: 1rem;
+}
+
+.user-table tbody tr {
+    border-bottom: 1px solid #ddd;
+}
+
+.user-table tbody td {
+    padding: 1rem;
+}
+
+.user-table tbody tr:hover {
+    background-color: #f9fafb;
+}
+
+.user-table .status-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 0.5rem;
+}
+
+/* Koyu tema için stil */
+.user-table.dark-mode {
+    background-color: #1f2937;
+    color: #f9fafb;
+}
+
+.user-table.dark-mode thead th {
+    background-color: #374151;
+    color: #f9fafb;
+}
+
+.user-table.dark-mode tbody tr {
+    border-color: #374151;
+}
+
+.user-table.dark-mode tbody tr:hover {
+    background-color: #374151;
+    color: #f9fafb;
+}
+
+.user-table.dark-mode .status-dot {
+    background-color: #10b981;
+}
+
+.user-table.dark-mode a {
+    color: #60a5fa;
+}

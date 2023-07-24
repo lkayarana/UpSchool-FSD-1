@@ -1,0 +1,31 @@
+.flex {
+    display: flex;
+}
+
+.card-container {
+    /* İstenilen stiller */
+    /* ... */
+    /* ... */
+}
+
+.flex.items-center.justify-center.h-screen {
+    /* İstenilen stiller */
+    /* ... */
+    /* ... */
+}
+
+.flex.items-center.justify-center.bg-black-200 {
+    position: fixed;
+    width: 600px;
+    height: 500px;
+    bottom: 100px;
+    left: 400px;
+    overflow: hidden;
+    top: 225px;
+}
+
+.max-w-md.mx-auto.bg-white.p-8.shadow-lg.rounded {
+    /* İstenilen stiller */
+    /* ... */
+    /* ... */
+}
