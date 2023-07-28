@@ -1,8 +1,9 @@
-## UpCrawler 
+## UpCrawler - Capstone Project
 
 Demo for UpCrawler
 
 https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/32aa21b3-3b94-4252-a646-b233efa4ce8a
+
 
 You can watch Capstone Presentation here https://drive.google.com/drive/folders/1S9eGbZdSWGt4P2MW9byJ5AcX_y3WSn9t
 
@@ -64,32 +65,42 @@ Users have the option to export their order details to an Excel table directly f
 ## Visuals from UpCrawler
 
 - Login Page
+  
   ![LoginPage](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/b3b05b88-497c-484e-afb0-763613737ba4)
 
 - Register Page
+  
   ![RegisterPage](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/31e0bb81-935b-46c8-a29f-72c1b2099cb5)
 
 - Home Page
+  
   ![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/8ab723a5-6abd-4eb0-b4fb-e4bb2e0343cd)
   
 - Order Page
+  
   ![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/1a1a6865-eb1b-4f6a-bf49-cf93f11c0655)
 
 - Live Tracking
+  
   ![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/a293a486-5712-4697-9622-c302a24c1290)
 
 - Products Page
+  
 https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/62784ae2-c4e6-42ab-b874-6371699b3b1d
 
 - Excel File
+  
   ![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/fc787c65-17e5-4deb-9c77-d912268da0b2)
 
 - Mail Content
+  
   ![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/31a35c5e-250f-46f8-a8ee-daded1393d81)
 
 - Web API
+  
 https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/91a13eb2-0c46-4daa-9090-0a00e98071be
 
 - DB - ER Diagram
+  
   ![image](https://github.com/lkayarana/UpSchool-FullStack-Development-Bootcamp/assets/102520514/23e42dfc-594d-4283-bddf-b286609a2492)
   
